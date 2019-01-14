@@ -97,6 +97,9 @@ private UVCCameraHelper.OnMyDevConnectListener listener = new UVCCameraHelper.On
         }
     };
 ```
+
+(1.a) DO ENABLE OTG CONNECTION IN YOUR ANDROID MOBILE.
+
 ![Connecting gif](https://github.com/jiangdongguo/AndroidUSBCamera/blob/master/gifs/detecting.gif)  
 (2) Capturing JPG Images  
 ```java
